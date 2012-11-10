@@ -1,0 +1,62 @@
+body {
+  background: #ff4040;
+  width: 100%;
+  color: white;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.artykul {
+  background: #ff7373;
+  width: 600px;
+  margin: 20px auto 0 auto;
+  padding-bottom: 12px;
+}
+
+h1 {
+  text-align: center;
+  padding: 125px 25px 125px 25px;
+}
+
+h2 {
+  margin: 25px 25px 12px 25px;
+}
+
+p {
+  margin: 12px 25px 12px 25px;
+
+}
+
+a {
+}
+
+ul {
+  margin: 12px 25px 12px 25px;
+  padding: 0 0 0 25px;
+}
+
+ul > li {
+
+}
+
+ol {
+  margin: 12px 25px 12px 25px;
+  padding: 0 0 0 25px;
+
+}
+
+ol > li {
+
+}
+
+img {
+  border: 1px solid #bf3030;
+  max-width: 500px;
+  margin: 12px 50px;
+  position: relative;
+}
+
+div.linki {
+  border: 1px solid #bf3030;
+  text-align: center;
+  margin: 12px 25px 0 25px;
+  color: #bf3030;
+}
